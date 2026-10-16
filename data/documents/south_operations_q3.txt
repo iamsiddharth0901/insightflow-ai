@@ -1,0 +1,6 @@
+title: South Operations Summary Q3 2026
+region: South
+period: 2026-Q3
+page: 4
+
+No material service outages were recorded for Cobalt in South during Q3. Inventory availability was normal for the reviewed products.

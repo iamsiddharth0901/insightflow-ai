@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+data/insightflow.db
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.streamlit/secrets.toml
