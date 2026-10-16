@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .env
 data/insightflow.db
+data/*.log
 .pytest_cache/
 .ruff_cache/
 *.egg-info/
